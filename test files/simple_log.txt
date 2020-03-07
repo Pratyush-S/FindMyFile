@@ -1,0 +1,60 @@
+Note: Read_czone_iisc.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Read_czone_iisc.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+IISc : Time
+IISc : CO2_Zone_1
+IISc : CO2_Zone_2
+IISc : CO2_Zone_3
+IISc : CO2_Zone_4
+IISc : CO2_Zone_5
+IISc : CO2_Zone_6
+IISc : Markers
+IISc : flightNo
+IISc : tailNo
+Note: Read_ozone_wipro.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Read_ozone_wipro.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Wipro : Time
+Wipro : TotalTimeSec
+Wipro : Flight_Status
+Wipro : Altitude
+Wipro : Pressure
+Wipro : Ozone
+Wipro : Temperature
+Wipro : RelHumidity
+Wipro : flightNo
+Wipro : tailNo
+Wipro : S_data_1
+Wipro : S_data_2
+Wipro : TotalTimeSec
+Wipro : Flight_Status
+Wipro : Altitude
+Wipro : Pressure
+Wipro : Ozone
+Wipro : Temperature
+Wipro : RelHumidity
+Wipro : flightNo
+Wipro : tailNo
+Note: Read_pm_hcl.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Read_pm_hcl.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+HCL : Time
+HCL : TotalTimeSec
+HCL : Flight_Status
+HCL : Altitude
+HCL : PM10
+HCL : activity
+HCL : turbulence
+HCL : flightNo
+HCL : tailNo
+/usr/bin/python3: symbol lookup error: /usr/bin/python3: undefined symbol: XML_SetHashSalt
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[Parent 3636, Gecko_IOThread] WARNING: pipe error (157): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3636, Gecko_IOThread] WARNING: pipe error (155): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3636, Gecko_IOThread] WARNING: pipe error (154): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3636, Gecko_IOThread] WARNING: pipe error (153): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 3636, Gecko_IOThread] WARNING: pipe error (152): Connection reset by peer: file /build/firefox-h0evE3/firefox-64.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363

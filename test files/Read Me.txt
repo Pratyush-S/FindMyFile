@@ -1,0 +1,3 @@
+For anomaly detection model training and implementatiaon along with raw and labeled datasets go to D:\PS!\CO2_Anomaly_detection\CODE\Anomaly_detect
+
+For Data management scripts, outputs and datasets go to  D:\PS!\Data_Management
